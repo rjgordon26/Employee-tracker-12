@@ -1,0 +1,26 @@
+{
+  "name": "Employee-Tracker-12",
+  "version": "1.0.0",
+  "description": "A CLI solution for managing a company's employees using node, inquirer, and MySQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjgordon26/Employee-tracker-12.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjgordon26/Employee-tracker-12/issues"
+  },
+  "homepage": "https://github.com/rjgordon26/Employee-tracker-12#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  }
+}
