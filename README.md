@@ -12,6 +12,12 @@ npm i
 
 This product is useful for managing and saving employee info into tables using SQL. The page has a simple and understanding setup that is user friendly.
 
+## Contact
+
+Github Username: rjgordon26
+LinkedIn: Raymond Gordon
+Email Address: Rjgordon26@gmail.com
+
 ## License
 
 none
